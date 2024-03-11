@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow.
+Soy Luis Angel López García, estudiante de la LIS
